@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/Nikita-Babenko/mchover.git" uploadOnCheckin="6165bd5d-5bfb-40f9-b2d9-c3f8eeb1c2e5">
+    <serverData>
+      <paths name="https://github.com/Nikita-Babenko/mchover.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/Nikita-Babenko/mchover.git" />
+  </component>
+</project>
