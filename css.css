@@ -1,0 +1,52 @@
+.body {
+    background-image:url(images/paper.jpg);
+    background-color: yellow;
+    margin: 40px;
+
+}
+.main-wrap {
+    margin: 50px auto;
+}
+
+.left-wrap {
+    width: 600px;
+    float: left;
+}
+
+.head-wrap {
+    background: lightyellow;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.descrip {
+    padding: 5px 10px;
+    height: 100px;
+    background: green;
+}
+
+.empty-field {
+    height: 40px;
+    border: 1px solid black;
+    margin: 15px 0;
+}
+
+.bottom-wrap {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.bottom-wrap p {
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    background: lightgray;
+}
+
+.right-wrap {
+    width: 250px;
+    height: 600px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 30px;
+}
